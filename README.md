@@ -12,10 +12,10 @@
   <h3>Nesta imagem foi feito o projeto atráves do Vscode versionando para desktop</h3>
   
   <br>
-  <img src="" alt="projeto-desktop">
+    <img src="https://github.com/ViniMoraes97/we-care/blob/master/img/we-care-project-desktop.png?raw=true" alt="projeto-desktop">
   <br>
   <h3>Nesta imagem foi feito para mobile e foi utilizado a responsividade para uma adptação para celulares</h3>
   <br>
-  <img src="" alt="projeto-mobile">
+  <img src="https://github.com/ViniMoraes97/we-care/blob/master/img/we-care-project-mobile.png?raw=true" alt="projeto-mobile">
   <br>
   <a href="https://we-care-16062023.netlify.app">Clique aqui para acessar o projeto<a/>
